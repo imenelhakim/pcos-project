@@ -9,7 +9,7 @@ root.render(
   <React.StrictMode>
     <App />
   </React.StrictMode>,
-  document.getElementById('root')
+  <h1>Hey ijs</h1>
 );
 
 // If you want to start measuring performance in your app, pass a function
